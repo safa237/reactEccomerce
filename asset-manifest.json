@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactEccomerce/static/css/main.1f8bdea6.css",
+    "main.js": "/reactEccomerce/static/js/main.7e588369.js",
+    "static/js/787.3f2ee11d.chunk.js": "/reactEccomerce/static/js/787.3f2ee11d.chunk.js",
+    "static/media/1.mp4": "/reactEccomerce/static/media/1.d3740eae60b1a5155f46.mp4",
+    "static/media/banner.png": "/reactEccomerce/static/media/banner.d27d94d3b18765a0d795.png",
+    "static/media/a6.jpg": "/reactEccomerce/static/media/a6.d7b04c72a1826924a32f.jpg",
+    "static/media/slider3.png": "/reactEccomerce/static/media/slider3.d030a0a9914e2fb89a7e.png",
+    "static/media/slider2.png": "/reactEccomerce/static/media/slider2.a947ba3da666380154f0.png",
+    "static/media/slider5.png": "/reactEccomerce/static/media/slider5.e56d9e006c67c63fc834.png",
+    "static/media/b14.png": "/reactEccomerce/static/media/b14.b3fa0d36c31c33d909c6.png",
+    "static/media/pay.png": "/reactEccomerce/static/media/pay.47ad3e696f50516da1b3.png",
+    "index.html": "/reactEccomerce/index.html",
+    "main.1f8bdea6.css.map": "/reactEccomerce/static/css/main.1f8bdea6.css.map",
+    "main.7e588369.js.map": "/reactEccomerce/static/js/main.7e588369.js.map",
+    "787.3f2ee11d.chunk.js.map": "/reactEccomerce/static/js/787.3f2ee11d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f8bdea6.css",
+    "static/js/main.7e588369.js"
+  ]
+}
